@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title> - Blog</title>
+        <title>Blog</title>
         <link>https://real-nicholas.github.io/</link>
-        <description> - Blog</description>
+        <description>Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright>
             <atom:link href="https://real-nicholas.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
