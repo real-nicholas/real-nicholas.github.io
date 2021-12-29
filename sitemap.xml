@@ -1,0 +1,14 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://real-nicholas.github.io/</loc><lastmod>2021-12-29T15:58:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://real-nicholas.github.io/categories/</loc><lastmod>2021-12-29T15:58:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://real-nicholas.github.io/posts/</loc><lastmod>2021-12-29T15:58:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://real-nicholas.github.io/tags/</loc><lastmod>2021-12-29T15:58:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://real-nicholas.github.io/posts/testing-2/</loc><lastmod>2021-12-29T15:58:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://real-nicholas.github.io/tags/x/</loc><lastmod>2021-12-29T15:58:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://real-nicholas.github.io/categories/x/</loc><lastmod>2021-12-29T15:58:31&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://real-nicholas.github.io/posts/testing-1/</loc><lastmod>2021-12-29T15:58:27&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://real-nicholas.github.io/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://real-nicholas.github.io/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
