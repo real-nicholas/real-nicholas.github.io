@@ -56,6 +56,18 @@ User-agent: ZoominfoBot
 Disallow: /
 
 User-agent: *
-Allow: *
+Disallow: /assets/
+Disallow: /css/
+Disallow: /img/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /*.js$
+Disallow: /*.css$
+Disallow: /*.gif$
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.png$
+Disallow: /*.webp$
+Disallow: /*.svg$
 
-Sitemap: https://real-nicholas.github.io/sitemap.xml
+Sitemap: https://www.real-nicholas.tk/sitemap.xml
