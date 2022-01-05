@@ -2,6 +2,37 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://real-nicholas.github.io/archives/</loc><lastmod>2021-12-30T20:30:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://real-nicholas.github.io/</loc><lastmod>2021-12-30T20:30:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://real-nicholas.github.io/zh-cn/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://real-nicholas.github.io/"
+                    /></url><url>
+            <loc>https://real-nicholas.github.io/categories/</loc><lastmod>2021-12-30T20:30:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://real-nicholas.github.io/zh-cn/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://real-nicholas.github.io/categories/"
+                    /></url><url>
+            <loc>https://real-nicholas.github.io/tags/</loc><lastmod>2021-12-30T20:30:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://real-nicholas.github.io/zh-cn/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://real-nicholas.github.io/tags/"
+                    /></url><url>
+            <loc>https://real-nicholas.github.io/archives/testing-1/</loc><lastmod>2021-12-30T20:30:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://real-nicholas.github.io/tags/x/</loc><lastmod>2021-12-30T20:30:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://real-nicholas.github.io/categories/x/</loc><lastmod>2021-12-30T20:30:15&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://real-nicholas.github.io/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -11,24 +42,6 @@
                     hreflang="en"
                     href="https://real-nicholas.github.io/authors/"
                     /></url><url>
-            <loc>https://real-nicholas.github.io/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://real-nicholas.github.io/zh-cn/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://real-nicholas.github.io/"
-                    /></url><url>
-            <loc>https://real-nicholas.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://real-nicholas.github.io/zh-cn/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://real-nicholas.github.io/categories/"
-                    /></url><url>
             <loc>https://real-nicholas.github.io/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -37,13 +50,4 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://real-nicholas.github.io/series/"
-                    /></url><url>
-            <loc>https://real-nicholas.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://real-nicholas.github.io/zh-cn/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://real-nicholas.github.io/tags/"
                     /></url></urlset>

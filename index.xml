@@ -3,7 +3,14 @@
         <title>Blog</title>
         <link>https://real-nicholas.github.io/</link>
         <description>Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</copyright><lastBuildDate>Thu, 30 Dec 2021 20:30:15 &#43;0800</lastBuildDate>
             <atom:link href="https://real-nicholas.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>Testing 1</title>
+    <link>https://real-nicholas.github.io/archives/testing-1/</link>
+    <pubDate>Thu, 30 Dec 2021 20:30:15 &#43;0800</pubDate><author>
+        <name>Nicholas</name>
+    </author><guid>https://real-nicholas.github.io/archives/testing-1/</guid>
+    <description><![CDATA[Testing-1]]></description>
+</item></channel>
 </rss>
